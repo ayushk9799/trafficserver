@@ -1,0 +1,1469 @@
+[
+  {
+    "id": 1,
+    "coords": [25.616627, 85.11004],
+    "name": "Shivpuri Chowk",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 2,
+    "coords": [25.612635, 85.118866],
+    "name": "Boring Road Chauraha",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 4,
+    "coords": [25.60999, 85.137659],
+    "name": "Dakbangla Chauraha",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 5,
+    "coords": [25.62836007952864, 85.12519196252724],
+    "name": "Loknayak Ganga Path",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 6,
+    "coords": [25.651915871871076, 85.09624164293419],
+    "name": "Atal path-Digha Rotery",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 7,
+    "coords": [25.651066621495247, 85.096242743816],
+    "name": "Loknayak Ganga Path-Digha Rotery",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 8,
+    "coords": [25.651289779088437, 85.08630357061642],
+    "name": "Digha pahleza JP setu Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 9,
+    "coords": [25.62363721255417, 85.1251566532625],
+    "name": "Rajapul-Gandhi maidan Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 10,
+    "coords": [25.623929704109564, 85.12405537821698],
+    "name": "Rajapul-Danapur Road",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 11,
+    "coords": [25.623411116287404, 85.12423916269636],
+    "name": "Rajapul-Boring Canal Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 12,
+    "coords": [25.623686565677477, 85.1243369101493],
+    "name": "Rajapul-Crossing",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 13,
+    "coords": [25.623347908323986, 85.13171199731336],
+    "name": "Rajapul-Crossing",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 14,
+    "coords": [25.620785046148054, 85.1386507271527],
+    "name": "Golghar",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 15,
+    "coords": [25.62091365028212, 85.13831265580768],
+    "name": "Golghar more",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 16,
+    "coords": [25.62094335271654, 85.14067726349904],
+    "name": "Golghar-Marin Drive Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 17,
+    "coords": [25.645479933433734, 85.10466423010577],
+    "name": "Marin Drive-Loknayak Ganga Path",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 18,
+    "coords": [25.62027559294147, 85.14223337662436],
+    "name": "Gandhi Maidan-Gandhi Museum",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 19,
+    "coords": [25.618658508767474, 85.14827400945374],
+    "name": "Gandhi Maidan-Kargil Chowk",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 20,
+    "coords": [25.631886863837543, 85.11733978856631],
+    "name": "Danapur-Bankipur Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 21,
+    "coords": [25.632538289601047, 85.1165785134479],
+    "name": "Danapur-Bankipur Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 22,
+    "coords": [25.638469429322626, 85.1097454326541],
+    "name": "Kurji More",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 23,
+    "coords": [25.63875658127853, 85.10940814487759],
+    "name": "Kurji More",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 24,
+    "coords": [25.646031493067362, 85.09197190235216],
+    "name": "Digha Ghat Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 25,
+    "coords": [25.64671630570616, 85.08877814475109],
+    "name": "Danapur Main Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 26,
+    "coords": [25.646822409996968, 85.0883831780197],
+    "name": "Danapur Main Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 27,
+    "coords": [25.610898851852845, 85.12111517465004],
+    "name": "Boring Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 28,
+    "coords": [25.610975340391537, 85.12988790383322],
+    "name": "Income Tax Chauraha-Baily Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 29,
+    "coords": [25.610925424961113, 85.13091843009923],
+    "name": "Income Tax Chauraha-Dakbangla Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 30,
+    "coords": [25.610563599799306, 85.1303070970856],
+    "name": "Income Tax Chauraha-Beer Chand Patel Path",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 31,
+    "coords": [25.611417841243448, 85.13027180163746],
+    "name": "Income Tax Chauraha-Ramlakhan Singh Yadav Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 32,
+    "coords": [25.61089608837071, 85.13187733624828],
+    "name": "New Dakbangla Rd-Taramandal",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 33,
+    "coords": [25.610676916071665, 85.13247116975602],
+    "name": "New Dakbangla Rd-Taramandal",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 34,
+    "coords": [25.61056913973301, 85.13346250321582],
+    "name": "New Dakbangla Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 35,
+    "coords": [25.610370864333596, 85.13399820219237],
+    "name": "New Dakbangla Rd-Baily Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 36,
+    "coords": [25.610012175011583, 85.13728831523038],
+    "name": "Dakbangla Chauraha-Baily Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 37,
+    "coords": [25.610317415781562, 85.13789939718275],
+    "name": "Dakbangla Chauraha-Fraser Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 38,
+    "coords": [25.609825791831458, 85.1380119994472],
+    "name": "Dakbangla Chauraha-New Dakbangla Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 39,
+    "coords": [25.609630122788722, 85.13770576702845],
+    "name": "Dakbangla Chauraha-Fraser Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 40,
+    "coords": [25.607394055425452, 85.06760786015393],
+    "name": "Baily Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 41,
+    "coords": [25.60620884318057, 85.04236107841318],
+    "name": "Danapur-Khagaul Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 42,
+    "coords": [25.58757262090028, 85.04336940660939],
+    "name": "Danapur-Khagaul Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 43,
+    "coords": [25.586486260724886, 85.04339078915437],
+    "name": "Danapur-Khagaul Rd-Hathiangad More",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 44,
+    "coords": [25.615495943880628, 85.1149750549206],
+    "name": "Boring Road-Shivaji Chowk",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": false
+  },
+  {
+    "id": 45,
+    "coords": [25.620443602407164, 85.10858707135391],
+    "name": "Boring Road-AN College",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 46,
+    "coords": [25.62823219115321, 85.11071866378792],
+    "name": "Pataliputa Golambar",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": false
+  },
+  {
+    "id": 47,
+    "coords": [25.629391276320604, 85.10425969532282],
+    "name": "Politechnic More",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 48,
+    "coords": [25.629461407245895, 85.10400823823117],
+    "name": "Politechnic More",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 49,
+    "coords": [25.629720519975372, 85.10417932436748],
+    "name": "Politechnic More-Mall Rd",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 50,
+    "coords": [25.638511328998685, 85.10937038789605],
+    "name": "Pataliputa kurji Rd-Kurji More",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 51,
+    "coords": [25.621234057913682, 85.10686263140661],
+    "name": "Atal Path-Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 52,
+    "coords": [25.600242359019106, 85.1230335601464],
+    "name": "Atal Path-Rajpoot Corridor Marg",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 53,
+    "coords": [25.600355473092407, 85.12594328990873],
+    "name": "R-Block",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 54,
+    "coords": [25.605431455588747, 85.12812742640956],
+    "name": "Beer Chand Patel Path",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 55,
+    "coords": [25.60790926114192, 85.12926766318915],
+    "name": "Beer Chand Patel Path",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": false
+  },
+  {
+    "id": 56,
+    "coords": [25.615919522136654, 85.14177481929931],
+    "name": "JP Golambar",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 57,
+    "coords": [25.61691219856728, 85.14191279819119],
+    "name": "JP Golambar-Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 58,
+    "coords": [25.61618146185445, 85.14257676335365],
+    "name": "JP Golambar-South Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 59,
+    "coords": [25.615612019475265, 85.14418829803867],
+    "name": "Ramgulam Chowk-South Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 60,
+    "coords": [25.615318810556772, 85.14476579280749],
+    "name": "Ramgulam Chowk-South Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 61,
+    "coords": [25.61519482071955, 85.1443276763072],
+    "name": "Ramgulam Chowk-Exhibition Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 62,
+    "coords": [25.61592080117863, 85.14827885836682],
+    "name": "Bakarganj More-East Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 63,
+    "coords": [25.61633237790517, 85.14847870648454],
+    "name": "Bakarganj More-East Gandhi Maidan Rd",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 64,
+    "coords": [25.61829786742519, 85.14821647539934],
+    "name": "Kargil Chowk-East Gandhi Maidan Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 65,
+    "coords": [25.609307231665106, 85.1423800418912],
+    "name": "Exhibition Rd Chauraha",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 66,
+    "coords": [25.60888924002162, 85.14208609891503],
+    "name": "Exhibition Rd Chauraha",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 67,
+    "coords": [25.609146526273296, 85.141868529903],
+    "name": "Exhibition Rd Chauraha-New Dakbangla Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 68,
+    "coords": [25.609560673561283, 85.13954950693045],
+    "name": "SP Verma Rd-New Dakbangla Rd",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 69,
+    "coords": [25.605761638619608, 85.11503880185008],
+    "name": "Baily Rd-Sardar Patel Path",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": false
+  },
+  {
+    "id": 70,
+    "coords": [25.598294591505283, 85.12099999024441],
+    "name": "Harding Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 71,
+    "coords": [25.59675383036323, 85.11635275827831],
+    "name": "Harding Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 72,
+    "coords": [25.59389857276512, 85.10148291246581],
+    "name": "Sardar Balabh bhai patel smiriti",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 73,
+    "coords": [25.59436684360796, 85.10111666088535],
+    "name": "Sardar Balabh bhai patel smiriti-Shahid Peer Ali Marg",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 74,
+    "coords": [25.594638569500898, 85.1017105572232],
+    "name": "Sardar Balabh bhai patel smiriti-Taylor Marg",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 75,
+    "coords": [25.60363418829843, 85.10678010406745],
+    "name": "Dr Shri Krisha singh Path-Baily Rd",
+    "tp": true,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 76,
+    "coords": [25.603413338667604, 85.1066678324333],
+    "name": "Dr Shri Krisha singh Path-Baily Rd",
+    "tp": true,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 77,
+    "coords": [25.605424641613528, 85.13917953675904],
+    "name": "Jamal Rd More",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 78,
+    "coords": [25.608400173207414, 85.14453365528828],
+    "name": "Rajendra Path Corner",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 79,
+    "coords": [25.608528540355515, 85.14484002637174],
+    "name": "Rajendra Path Corner",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 80,
+    "coords": [25.609102110298476, 85.14702715951509],
+    "name": "Pirmohani Chowk-Rajendra Path",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 81,
+    "coords": [25.609013575096014, 85.14709607508254],
+    "name": "Pirmohani Chowk-Pirmohani Gali",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 82,
+    "coords": [25.60955910507186, 85.14992645968111],
+    "name": "Maharshi Charak Rotetry",
+    "tp": true,
+    "sc": false,
+    "rl": true,
+    "tc": false
+  },
+  {
+    "id": 83,
+    "coords": [25.61211534090081, 85.1511240870145],
+    "name": "Rajendra Nagar-Nala Rd",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 84,
+    "coords": [25.612972983826765, 85.15140236290064],
+    "name": "Rajendra Nagar",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 85,
+    "coords": [25.614876973966407, 85.16773480769147],
+    "name": "Bhikhana Pahadi Police Check Post",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 86,
+    "coords": [25.61058993859883, 85.15952823426132],
+    "name": "Dinkar Chowk-Arya Kumar Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 87,
+    "coords": [25.610824117457007, 85.16009838238973],
+    "name": "Dinkar Chowk-Nala Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 88,
+    "coords": [25.61583234216278, 85.1603080138286],
+    "name": "Macchua Toli Corner",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 89,
+    "coords": [25.606730928802232, 85.15847040303753],
+    "name": "Vaishali Golambar",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 90,
+    "coords": [25.606572204325957, 85.1657538598866],
+    "name": "Rajendra Nagar Station",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 91,
+    "coords": [25.604201326472296, 85.098366577604],
+    "name": "Baily Rd ",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 92,
+    "coords": [25.604386117200082, 85.19993193721218],
+    "name": "Agamkuan",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 93,
+    "coords": [25.603142581697053, 85.20351629783165],
+    "name": "Agamkuan",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 94,
+    "coords": [25.603062390442286, 85.20364311252763],
+    "name": "Agamkuan",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 95,
+    "coords": [25.60304189117148, 85.20650955987834],
+    "name": "Maharajganj",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 96,
+    "coords": [25.591191881104145, 85.2351595656835],
+    "name": "Mansoor Ganj",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 97,
+    "coords": [25.582019992997708, 85.24753047885596],
+    "name": "Katra Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 98,
+    "coords": [25.580556305870157, 85.24964731717203],
+    "name": "Ahoshk Rajpath",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 99,
+    "coords": [25.572260930736505, 85.25831745125998],
+    "name": "Ashok Rajpath-Fatuha Marg",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 100,
+    "coords": [25.571920606406117, 85.25871727909002],
+    "name": "Ashok Rajpath-Fatuha Marg-More",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 101,
+    "coords": [25.57202767531461, 85.25808689433438],
+    "name": "Fatuha Marg",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 102,
+    "coords": [25.575726688069388, 85.25358449213492],
+    "name": "Ahoshk Rajpath",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 103,
+    "coords": [25.58539158049609, 85.23271568733193],
+    "name": "Murch Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 104,
+    "coords": [25.591988707910875, 85.22735030301482],
+    "name": "Shikarpur Chowk",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 105,
+    "coords": [25.593241163073486, 85.2171502354913],
+    "name": "Noor ka Chauraha",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 106,
+    "coords": [25.597131030030834, 85.20923614223565],
+    "name": "Gulgazbag station Rd-Nawab Bahadur Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 107,
+    "coords": [25.598222508604557, 85.20534952210609],
+    "name": "Gulgazbag station Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 108,
+    "coords": [25.59857276420254, 85.19802787749047],
+    "name": "Gulgazbag station Rd-not on Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 109,
+    "coords": [25.611100621284923, 85.20157357700005],
+    "name": "Gaye Ghat Auto Stand",
+    "tp": true,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 110,
+    "coords": [25.60771183247038, 85.20891737144188],
+    "name": "Gulgazbag-Ahsok Rajpath",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 111,
+    "coords": [25.607364105391017, 85.19877000662116],
+    "name": "Shershah Rd-Gaay Ghat Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 112,
+    "coords": [25.60715644750556, 85.1991234773047],
+    "name": "Shershah Rd-Gaay Ghat Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 113,
+    "coords": [25.59934053573525, 85.08971106829655],
+    "name": "BSRDC Circle-Riding Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 114,
+    "coords": [25.598940507221236, 85.08985530908956],
+    "name": "BSRDC Circle-Shahid Peer Ali Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 115,
+    "coords": [25.599214685420073, 85.08918592837809],
+    "name": "Patna Airport-Ashiyana More",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 116,
+    "coords": [25.604123408672457, 85.09332420556467],
+    "name": "Riding Rd-Baily Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 117,
+    "coords": [25.604308805739077, 85.09364872633792],
+    "name": "Baily Rd-Riding Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 118,
+    "coords": [25.604499029544574, 85.09326651797247],
+    "name": "Baily Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 119,
+    "coords": [25.606233444500674, 85.07274095466099],
+    "name": "Baily Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 120,
+    "coords": [25.593372012260076, 85.07662969401046],
+    "name": "Jagdeo Path-Anishabad Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 121,
+    "coords": [25.59094723956565, 85.07530914990687],
+    "name": "Anishabad Rd-Jagdeo Path",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 122,
+    "coords": [25.61477901048867, 85.08214150400488],
+    "name": "Anishabad Rd-Digha Rd",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 123,
+    "coords": [25.621825356230403, 85.08279419156413],
+    "name": "Anishabad Rd-Digha Rd-Kurji",
+    "tp": false,
+    "sc": false,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 124,
+    "coords": [25.633804747287584, 85.08614826601281],
+    "name": "Anishabad Rd-Digha Rd-Gurdaur Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 125,
+    "coords": [25.6465999038324, 85.08849535413796],
+    "name": "Anishabad Rd-Digha Rd-Danapur Bankipur Rd",
+    "tp": false,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 126,
+    "coords": [25.630249703841045, 85.10039145687051],
+    "name": "Rajiv Nagar Main Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 127,
+    "coords": [25.63023277515171, 85.10074684978049],
+    "name": "Rajiv Nagar Main Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 128,
+    "coords": [25.609046947707682, 85.06320326803136],
+    "name": "Baily Rd-Pataliputa Station Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 129,
+    "coords": [25.64743724565308, 85.07982848550711],
+    "name": "Danapur Bankipur Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 130,
+    "coords": [25.64742304293301, 85.07956084090917],
+    "name": "Danapur Bankipur Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 131,
+    "coords": [25.64268474821752, 85.06054623401519],
+    "name": "Danapur Main Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 132,
+    "coords": [25.63935753608267, 85.05466232737244],
+    "name": "Golaroad More",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 133,
+    "coords": [25.637376903900005, 85.04685096704128],
+    "name": "BibiGanj-Danapur Main Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 134,
+    "coords": [25.637333876125087, 85.0451966996182],
+    "name": "Danapur Tempo Stand",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 135,
+    "coords": [25.629037358740145, 85.05618198283388],
+    "name": "Gola Rd",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 136,
+    "coords": [25.6093480267934, 85.06242633684256],
+    "name": "Digha Link Bridge Marg-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 137,
+    "coords": [25.609064904220837, 85.06229319005125],
+    "name": "Digha Link Bridge Marg-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 138,
+    "coords": [25.6088738666157, 85.06223137565965],
+    "name": "Digha Link Bridge Marg-Below Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 139,
+    "coords": [25.609736221386765, 85.06262072383123],
+    "name": "Digha Link Bridge Marg-Below Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 140,
+    "coords": [25.562235490030773, 85.03772825867695],
+    "name": "Phulwari Sharif-Janipur Rd-near AIIMS Patna",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 141,
+    "coords": [25.561878323268548, 85.0375519498165],
+    "name": "Phulwari Sharif-Janipur Rd-near AIIMS Patna",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 142,
+    "coords": [25.56176798145508, 85.03786939664666],
+    "name": "Bypass Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 143,
+    "coords": [25.561432179549545, 85.03745729974382],
+    "name": "Bypass Rd",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 144,
+    "coords": [25.57964580271636, 85.05313441683887],
+    "name": "Khagaul Anishabad Rd-Below Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 145,
+    "coords": [25.579836981484707, 85.05293224663293],
+    "name": "Khagaul Anishabad Rd-Below Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 146,
+    "coords": [25.579836981484707, 85.05293224663293],
+    "name": "Khagaul Anishabad Rd-Below Flyover",
+    "tp": false,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 147,
+    "coords": [25.576513678520353, 85.06785127495321],
+    "name": "Phulwari Sharif Circle",
+    "tp": true,
+    "sc": true,
+    "rl": false,
+    "tc": true
+  },
+  {
+    "id": 148,
+    "coords": [25.578450542095823, 85.0780719945324],
+    "name": "Mahavir Chowk-Anishabad Khagaul Rd",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 149,
+    "coords": [25.58045086722846, 85.08427454195603],
+    "name": "Anishabad Khagaul Rd",
+    "tp": true,
+    "sc": false,
+    "rl": false,
+    "tc": false
+  },
+  {
+    "id": 150,
+    "coords": [25.58521996479636, 85.0956324243666],
+    "name": "Khagaul Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 151,
+    "coords": [25.585372584193404, 85.09626607820101],
+    "name": "Khagaul Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 152,
+    "coords": [25.585090711073672, 85.09595002737636],
+    "name": "Fatuha Marg-Khagaul Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 153,
+    "coords": [25.588033880595837, 85.10228029178495],
+    "name": "Chitkohra Golambar-Khagaul Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 154,
+    "coords": [25.58826924742822, 85.10299321388034],
+    "name": "Chitkohra Golambar-Chitkohra Marg",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 155,
+    "coords": [25.602739189979843, 85.14377521062814],
+    "name": "Kankarbagh Main Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 156,
+    "coords": [25.602573243571005, 85.14364101627987],
+    "name": "Kankarbagh Main Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 157,
+    "coords": [25.602813323487617, 85.15823801844454],
+    "name": "Kankarbagh Main Rd-Below Flyover",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 158,
+    "coords": [25.602208757432507, 85.16263061801584],
+    "name": "Kankarbagh Main Rd-Rajendra Nagar Terminal",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 159,
+    "coords": [25.601422510356517, 85.17045903927033],
+    "name": "Kankarbagh Main Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 160,
+    "coords": [25.601513372899984, 85.17054746525311],
+    "name": "Kankarbagh Main Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 161,
+    "coords": [25.59987376612074, 85.1922113853148],
+    "name": "Kankarbagh Main Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 162,
+    "coords": [25.599694839608052, 85.19279928674106],
+    "name": "Bajrang Puri Main Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 163,
+    "coords": [25.599579171677952, 85.19238035660167],
+    "name": "Kumhrar Rd-Kankarbagh Main Rd",
+    "tp": true,
+    "sc": true,
+    "rl": true,
+    "tc": true
+  },
+  {
+    "id": 164,
+    "coords": [25.599391766414705, 85.19452878316915],
+    "name": "Bajrang Puri Main Rd-Below Flyover",
+    "tp": false,
+    "sc": false,
+    "rl": false,
+    "tc": true
+  }
+]
